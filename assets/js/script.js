@@ -99,8 +99,7 @@ function determineSpecial(){
     return specialCheck;
 }
 
- //Function used to take all the input from the previous functions and generate a password using a random number generator and 
- //the charAt method 
+ //Function used to take all the input from the previous functions and generate a password using a random number generator
 function generatePassword(){
   determineLength();
   console.log(passwordLength);
