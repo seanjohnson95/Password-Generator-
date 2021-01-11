@@ -6,5 +6,5 @@ Click the button stating "generate password".
 When presented with a series of prompts for password criteria, select which criteria you want to include in the password.
 When you answer each of the preceding prompts,
 then a password will be generated that matches the criteria you have chosen.
-The password will displayed in an alert or written to the page
+The password will be displayed in an alert or written to the page.
 https://seanjohnson95.github.io/sjpassword-generator-/
